@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.icon {
+  color: red; 
+}
+.bg {
+  background-image: url('./images/dreamy-aesthetic-color-year-tones-nature-landscape.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .App-logo {
   height: 40vmin;
